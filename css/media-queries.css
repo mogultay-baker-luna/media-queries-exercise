@@ -1,0 +1,44 @@
+@media screen and (max-width: 1024px) {
+
+    body {
+        font-family: "Ubuntu", sans-serif;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .alert-info, .hidden-on-desktop {
+        margin: 10px;
+        padding: 10px 100%;
+        background-color: rgb(215, 254, 254);
+        border: 2px solid lightgray;
+        justify-content: center;
+        text-align: center;
+    }
+
+    #main {
+        justify-content: center;
+
+    }
+
+    h1 {
+
+    }
+
+    .nav-links a {
+        margin: 10px;
+        padding: 10px 100%;
+        background-color: rgb(215, 254, 254);
+        border: 2px solid lightgray;
+        justify-content: center;
+        text-align: center;
+    }
+    ul {
+        list-style-type: none;
+    }
+
+}
+
+@media screen and (min-width: 1025px) {
+
+}
