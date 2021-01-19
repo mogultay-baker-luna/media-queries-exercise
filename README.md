@@ -1,3 +1,3 @@
-#Meadia Queries Project
+#Media Queries Project
 
 And more stuff...
