@@ -75,6 +75,27 @@
         display: none;
     }
 
+    body {
+        font-family: "Ubuntu", sans-serif;
+        display: flex;
+        flex-direction: column;
+    }
+
+    h1 {
+        justify-content: flex-end;
+        font-weight: bolder;
+    }
+
+    nav ul{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    ul {
+
+    }
 
 
 }
